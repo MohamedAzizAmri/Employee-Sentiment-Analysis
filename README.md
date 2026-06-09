@@ -189,8 +189,8 @@ Potential enhancements include:
 
 ## Author
 
-**Mohamed Aziz Amri** 
-**Mohamed Ben Arbia**
+**Mohamed Aziz Amri /** 
+**Mohamed Ben Arbia /**
 **Rissen Guermazi**
 
 Bachelor of Business Administration
