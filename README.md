@@ -12,7 +12,8 @@ The goal is to demonstrate how organizations can transform large volumes of text
 
 ## Dataset
 
-The dataset consists of employee reviews collected from Glassdoor.
+The dataset consists of employee reviews collected from Glassdoor. 
+Download it from : https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews
 
 Each review contains:
 
