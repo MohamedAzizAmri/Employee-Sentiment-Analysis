@@ -194,9 +194,9 @@ Potential enhancements include:
 **Mohamed Ben Arbia /**
 **Rissen Guermazi**
 
-Bachelor of Business Administration
-Major: Business Analytics
-Minor: Information Technology
+Bachelor of Science in Business Administration
+* Major: Business Analytics
+* Minor: Information Technology
 
 Tunis Business School
 
